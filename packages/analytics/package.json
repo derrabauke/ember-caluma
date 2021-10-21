@@ -1,13 +1,17 @@
 {
-  "name": "@projectcaluma/ember-analytics",
+  "name": "ember-analytics",
   "version": "0.0.0",
   "description": "Analytics Ember addon for ember-caluma.",
   "keywords": [
     "ember-addon"
   ],
-  "license": "LGPL-3.0-or-later",
-  "homepage": "https://docs.caluma.io/ember-caluma",
-  "repository": "github:projectcaluma/ember-caluma",
+  "repository": "",
+  "license": "MIT",
+  "author": "",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
   "scripts": {
     "test": "npm-run-all lint test:*",
     "test:ember": "ember test",
